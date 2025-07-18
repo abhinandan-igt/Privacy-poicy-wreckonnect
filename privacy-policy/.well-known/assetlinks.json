@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.Wreckonnect.WreckonnectApp",
+      "sha256_cert_fingerprints": [
+        "5B:1F:9D:91:C6:E4:4C:FE:27:DA:00:73:BC:AA:00:E2:19:FE:CC:BD:9F:87:07:3F:A6:05:8F:73:AB:35:0A:37"
+      ]
+    }
+  }
+]
